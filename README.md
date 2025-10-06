@@ -1,3 +1,3 @@
-# dots-style!
+# dots-styles
 
 <!-- Quickdraw badge attempt 🤠 -->
